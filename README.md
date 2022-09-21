@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @echeng-git
-- 👀 I’m interested in software development & engineering. Also some computer hardware, here and there.
-- 🌱 I’m currently learning the ropes of Python, and eventually C++.
+- 👀 I’m interested in software development, computer vision, and working with data. Also some computer hardware, here and there.
+- 🌱 I’m currently learning the ropes of Java, and eventually SQL.
 - 💞️ I’m looking to collaborate on various side projects involving problem solving!
 - 📫 Reach me via GitHub!
 
