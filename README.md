@@ -1,4 +1,4 @@
-5th year software engineering student @ the University of Alberta. Trying to figure things out...
+U of A 2025 SWE Graduate. I like doing things and making things work.
 
 I'm interested in the areas of computer vision, computer graphics, as well as some machine learning here and there.
 
